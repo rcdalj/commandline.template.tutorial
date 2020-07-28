@@ -1,5 +1,5 @@
 .. test documentation master file, created by
-   sphinx-quickstart on Tue Jul 28 16:14:26 2020.
+   sphinx-quickstart on Tue Jul 28 17:06:50 2020.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
@@ -12,8 +12,6 @@ Welcome to test's documentation!
 
    library
    command-line
-
-
 
 Indices and tables
 ==================
